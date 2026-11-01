@@ -138,6 +138,10 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Web-based Developer Utilities
 
+- [Everyday Toolkits Diff Checker](https://everyday-toolkits.vercel.app/tools/diff-checker) - Compare code snippets and text side-by-side with character-level difference highlighting. 100% private in-browser diffing with zero server uploads.
+- [Everyday Toolkits JWT Debugger](https://everyday-toolkits.vercel.app/tools/jwt-debugger) - Decode, inspect, and verify JSON Web Tokens client-side without transmitting secret keys or payload data.
+- [Everyday Toolkits QR Generator](https://everyday-toolkits.vercel.app/tools/qr-generator) - Generate custom QR codes including Wi-Fi network connection QR codes with 100% offline in-browser processing.
+
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing.
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline.
